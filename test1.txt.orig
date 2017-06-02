@@ -1,0 +1,9 @@
+this is test 1
+
+I made some (conflicting maybe?) changes
+<<<<<<< HEAD
+i sega? ne go oprawai
+=======
+i sega? opravi go
+>>>>>>> 52b36ebf457d3e4171ff35dad7ae928b3899b518
+
