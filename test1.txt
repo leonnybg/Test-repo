@@ -1,4 +1,4 @@
-this is thest 1
+this is test 1
 
 I made some (conflicting maybe?) changes
 
