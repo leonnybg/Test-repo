@@ -1,4 +1,4 @@
 this is thest 1
 
-made same changes
+made same changes from GitHub! (this is the correct way!)
 
