@@ -1,4 +1,3 @@
 this is thest 1
 
-made same changes
-
+I made some (conflicting maybe?) changes
