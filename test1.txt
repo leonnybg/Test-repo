@@ -3,5 +3,5 @@ this is test 1
 I made some (conflicting maybe?) changes
 i sega? opravi go
 
-dev branch has new stuff here
+dev branch made more new stuff here
 
